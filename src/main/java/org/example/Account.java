@@ -1,7 +1,7 @@
-package pl.umcs.oop.auth;
+package org.example;
 
 import at.favre.lib.crypto.bcrypt.BCrypt;
-import pl.umcs.oop.database.DatabaseConnection;
+import org.example.DatabaseConnection;
 
 import javax.naming.AuthenticationException;
 import java.sql.PreparedStatement;

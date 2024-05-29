@@ -1,4 +1,4 @@
-package pl.umcs.oop.database;
+package org.example;
 import java.util.HashMap;
 import java.util.Map;
 import java.sql.Connection;
